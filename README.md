@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7d0e7d&height=160&section=header&text=Robertt%20Mehary%20&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7d0e7d&height=160&section=header&text=Robertt%20Mehary%20他&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
 <div align="center">
   
@@ -11,7 +11,7 @@
     <img height=170 align="center" src="https://stats-git-main-pedros-projects-7c0d68c1.vercel.app/api?username=robertt-dev&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   </a>
   <a>
-    <img height=170 align="center" src="https://stats-git-main-pedros-projects-7c0d68c1.vercel.app/api/top-langs/?username=pedroviniciusz&layout=compact&theme=omni&exclude_repo=stats,Repositorio-Python&hide=javascript,html,css,ejs"/>
+    <img height=170 align="center" src="https://stats-git-main-pedros-projects-7c0d68c1.vercel.app/api/top-langs/?username=robertt-dev&layout=compact&theme=omni&exclude_repo=stats,Repositorio-Python&hide=javascript,html,css,ejs"/>
   </a>
 </div>
 
