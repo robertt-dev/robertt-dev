@@ -1,41 +1,24 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7d0e7d&height=160&section=header&text=Robertt%20Mehary%20他&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
+### Hello, I am Robertt Mehary. 
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Code&pause=1000&color=cc04cc&center=true&width=500&lines=Desenvolvedor+Back-End+Jr)](https://git.io/typing-svg)
-  
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertt-mehary-dev)
 
-<div align="center">
-  <a>
-    <img height=170 align="center" src="https://stats-git-main-pedros-projects-7c0d68c1.vercel.app/api?username=robertt-dev&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  </a>
-  <a>
-    <img height=170 align="center" src="https://stats-git-main-pedros-projects-7c0d68c1.vercel.app/api/top-langs/?username=robertt-dev&layout=compact&theme=omni&exclude_repo=stats,Repositorio-Python&hide=javascript,html,css,ejs"/>
-  </a>
-</div>
+![robertt-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=robertt-dev&show_icons=true&theme=dark)
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertt-dev&layout=compact)
 
-<div align="center">
-  <h2>Tecnologias:</h2>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,spring,docker,maven,postgres,mysql,ubuntu" />
-    </a>
-  </p>
-</div> 
-  
-  ##
 
-<div align="center">
-  
-   ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=robertt-dev&theme=omni) 
-   
-</div>
-  
-<div align="center"> 
-  <h2>Contatos e Redes:</h2>
-  <a href="https://www.linkedin.com/in/robertt-mehary-dev/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="Linkedin logo"></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:roberttmehary.dev@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Gmail logo"></a>
-</div>
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7d0e7d&height=120&section=footer"/>
 
+### Technologies I use in my daily routine 💻
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+ <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div><br>
+
+Full Stack Developer, graduated in Systems Analysis and Development (ADS), currently working as N3 Support. Passionate about technology and building robust, scalable solutions.
