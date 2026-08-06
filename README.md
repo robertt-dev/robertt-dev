@@ -2,7 +2,7 @@
 
 ## Sobre mim 📖
 
-- 👩🏽‍💻 Desenvolvedor Full Stack Java + Angular
+- 👩🏽‍💻 Desenvolvedor Full Stack 
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
 - 💬 Entre em contato por e-mail: roberttmehary.dev@gmail.com
 <br>
