@@ -1,30 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9370DB&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo(a)!;Hello,+Be+Welcome!;)](https://git.io/typing-svg)
-
 ## Sobre mim 📖
 
-- 👩🏽‍💻 Desenvolvedor Full Stack 
+- 👨‍💻 Desenvolvedor de Software Júnior
+- ☕ Desenvolvimento back-end com Java e Spring Boot
+- 🅰️ Desenvolvimento e manutenção de aplicações front-end com Angular e TypeScript
+- 🗄️ Experiência com PostgreSQL e Liquibase
+- 🐳 Utilização de Docker, Git e GitLab no desenvolvimento
+- 🔄 Contato com RabbitMQ, Redis, Elasticsearch e MinIO
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
-- 💬 Entre em contato por e-mail: roberttmehary.dev@gmail.com
-<br>
+- 📚 Em constante aprendizado e evolução na área de desenvolvimento de software
+- 💬 Entre em contato por e-mail: [roberttmehary.dev@gmail.com](mailto:roberttmehary.dev@gmail.com)
 
-<br>
+## 🛠️ Tecnologias
 
 <div style="display: inline_block" align="center"><br>
-<!--   <img align="center" alt="Karen-Java" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Karen-spring" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Karen-docker" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="Karen-docker" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Karen-docker" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Karen-postgresql" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
-  <img align="center" alt="Karen-docker" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg"> -->
-  
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,javascript,postgresql,docker,git" />
-
-</div>
-
-  ## 
-  
-<div align="center">
-  <a target="_blank" href="mailto:roberttmehary.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=9370DB"></img></a>
-  <a href="https://www.linkedin.com/in/robertt-mehary-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=9370DB"></a>
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,postgresql,docker,git,gitlab,rabbitmq,redis,elasticsearch" />
 </div>
