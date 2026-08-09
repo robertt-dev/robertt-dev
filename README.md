@@ -1,6 +1,6 @@
 ## Sobre mim 📖
 
-- 👨‍💻 Desenvolvedor de Software Júnior
+- 👨‍💻 Desenvolvedor de Software 
 - ☕ Desenvolvimento back-end com Java e Spring Boot
 - 🅰️ Desenvolvimento e manutenção de aplicações front-end com Angular e TypeScript
 - 🗄️ Experiência com PostgreSQL e Liquibase
